@@ -1,0 +1,11 @@
+{
+    "require": {
+        "slim/slim": "^3.9",
+        "bshaffer/oauth2-server-php": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "classes/"
+        }
+    }
+}
